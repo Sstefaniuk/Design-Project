@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+}
+.table {
+    border-color: white;
+    border: 2px solid white;
+    border-collapse: collapse;
+    position: fixed;
+    color: white;
+    top: 0;
+    z-index: 2;
+}
+.blank {
+    background-color: rgb(6, 70, 6);
+    width: 1700px;
+}
+.Home {
+    background-color: rgb(6, 70, 6);
+
+}
+.blank2 {
+    background-color: rgb(6, 70, 6);
+    width: 200px
+}
+.h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    height: 2px;
+}
+.section {
+    height: 120px;
+    width: 1000px;
+    border: solid black;
+    display: inline-block;
+    background-size: 100px 1000px;
+    padding: opx;
+    right: 140px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    z-index: 1;
+}
+.img {
+    height: 200px;
+    width: 300px;
+    border: solid black;
+    display: inline-block;
+    background-size: 300px 200px;
+    padding: opx;
+    margin: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    z-index: 1;
+    background-image: url(liberty.jpg);
+}
+.img2 {
+    height: 200px;
+    width: 300px;
+    border: solid black;
+    display: inline-block;
+    background-size: 300px 200px;
+    padding: opx;
+    margin: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    z-index: 1;
+    background-image: url(Times-Square-04378.jpg);
+}
+.img3 {
+    height: 200px;
+    width: 300px;
+    border: solid black;
+    display: inline-block;
+    background-size: 300px 200px;
+    padding: opx;
+    margin: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    z-index: 1;
+    background-image: url(park.webp);
+}

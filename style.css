@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.table {
+    border-color: white;
+    border: 2px solid white;
+    border-collapse: collapse;
+    position: fixed;
+    color: white;
+    top: 0;
+    z-index: 2;
+}
+.blank {
+    background-color: rgb(6, 70, 6);
+    width: 1700px;
+}
+.Home {
+    background-color: rgb(6, 70, 6);
+}
+.blank2 {
+    background-color: rgb(6, 70, 6);
+    width: 200px
+}
+.latin {
+    color: black;
+    line-height: 15px;
+    letter-spacing: 1px;
+    column-count:1;
+    column-gap: 50px;
+    column-width: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid white;
+    position: absolute;
+    left: 3px;
+}
+.right {
+    column-width: 100px;
+    column-count: 1;
+    height: px;
+
+
+}
+.img {
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    border: solid black 4px;
+    padding: opx;
+    margin: 10px;
+    z-index: 1;
+    width: 670px;
+    height: 420px;
+    z-index: 1;
+}
+.section {
+    height: 150px;
+    width: 570px;
+    border: solid white;
+    display: inline-block;
+    background-size: 100px 1000px;
+    padding: opx;
+    right: 140px;
+    left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+    text-align: center;
+    color: black;
+    z-index: 1;
+}
+form {
+    position: absolute;
+    top: 100%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+  }
+h1 {
+    position: absolute;
+    top: 13%;
+    left: 11%;
+}
+h3 { position: absolute;
+    top: 42%;
+    left: 14%;
+}
+h4 {
+    position: absolute;
+    top: 65%;
+    left: 15%;
+}
+ol {
+    position: absolute;
+    top: 47%;
+    left: 15%;
+}
